@@ -1,0 +1,20 @@
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 500px;
+    height: 350px;
+    margin: 0 auto;
+    margin-top: 150px;
+    font-family: sans-serif;
+}
+
+td {
+    border: 1px solid gray;
+    padding-left: 5px;
+}
+
+.center,
+.subject,
+.header {
+    text-align: center;
+}
